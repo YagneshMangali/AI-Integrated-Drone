@@ -3,7 +3,10 @@ Designing of Drone for capturing of VJIT and analyzing its live video using Deep
 
 https://www.linkedin.com/posts/yagnesh-mangali_technology-team-project-activity-7078588648492855296-jEXw?utm_source=share&utm_medium=member_desktop
 
+
 ## Project Overview
+![A futuristic surveillance drone equipped with advanced AI technology hovering over a college campus, capturing live video footage  The scene shows the drone’s camera interface displaying real-time object detection ](https://github.com/user-attachments/assets/cb2fae3d-4385-44e5-a19c-c992cd259e0a)
+
 
 This project utilizes the YOLO v5 deep learning framework to enable real-time object detection through a surveillance drone. The system is designed to detect and track both humans and vehicles (2-wheelers and 4-wheelers) from live video feeds.
 
